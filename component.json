@@ -1,0 +1,13 @@
+{
+  "name": "tower-accessor",
+  "repo": "tower/accessor",
+  "description": "Tower Accessor component",
+  "version": "0.0.1",
+  "keywords": [],
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  },
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
